@@ -1,0 +1,8 @@
+c:\users\whe\documents\visual studio 2012\Projects\MySort\MySort\bin\Debug\MySort.exe.config
+c:\users\whe\documents\visual studio 2012\Projects\MySort\MySort\bin\Debug\MySort.exe
+c:\users\whe\documents\visual studio 2012\Projects\MySort\MySort\bin\Debug\MySort.pdb
+c:\users\whe\documents\visual studio 2012\Projects\MySort\MySort\obj\Debug\MySort.exe
+c:\users\whe\documents\visual studio 2012\Projects\MySort\MySort\obj\Debug\MySort.pdb
+D:\US project\MySort\MySort\bin\Debug\MySort.exe.config
+D:\US project\MySort\MySort\obj\Debug\MySort.exe
+D:\US project\MySort\MySort\obj\Debug\MySort.pdb
