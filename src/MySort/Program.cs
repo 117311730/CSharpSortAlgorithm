@@ -21,7 +21,17 @@ namespace MySort
 
             //Console.ReadKey();
 
-            ExternalSorting.test();
+            //ExternalSorting.test();
+
+
+            Console.WriteLine("Enter one or more lines of text (press CTRL+Z to exit):");
+            var probability = new Probability();
+            string line;
+            do
+            {
+                probability.Test();
+                line = Console.ReadLine();
+            }while (line != null);
         }
     }
 }

@@ -6,7 +6,7 @@ namespace MySort
     /**
     * Median of Two Sorted Arrays 
     **/
-    public class FindMedianSortedArrays
+    public class FindMedianSortedArray
     {
         public double FindMedianSortedArrays(int[] A, int[] B)
         {
@@ -56,7 +56,7 @@ namespace MySort
             int[] b1 = { 1 };
             int[] b2 = { 2, 3, 4 };
 
-            var s = new FindMedianSortedArrays();
+            var s = new FindMedianSortedArray();
             Console.WriteLine("Median is 17 = {0}", s.FindMedianSortedArrays(ar1, ar2));
             Console.WriteLine("Median is 16 = {0}", s.FindMedianSortedArrays(ar11, ar21));
             Console.WriteLine("Median is 9.5 = {0}", s.FindMedianSortedArrays(a10, a20));
