@@ -44,6 +44,7 @@
     <Compile Include="ExternalSorting.cs" />
     <Compile Include="FindMedianSortedArrays.cs" />
     <Compile Include="MergeSort.cs" />
+    <Compile Include="ParallelTest.cs" />
     <Compile Include="PriorityQuene.cs" />
     <Compile Include="Probability.cs" />
     <Compile Include="Program.cs" />
